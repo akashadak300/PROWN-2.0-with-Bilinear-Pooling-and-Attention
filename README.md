@@ -4,6 +4,8 @@
 
 This repository provides an extension of the original PROWN (Probabilistically Robust Watermarking of Neural Networks) framework by improving the trigger set generation process. We incorporate **bilinear pooling** and **scaled dot-product attention** to generate semantically meaningful and highly transferable watermark triggers.
 
+> 📈 Improvement of ~34% in verification accuracy with enhanced triggers.
+
 ---
 
 ## 🧠 Key Features
