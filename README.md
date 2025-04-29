@@ -1,1 +1,1 @@
-# PROWN-2.0-with-Bilinear-Pooling-and-Attention
+To run this project just run the jupyter notebook `PROWN_CODE_FINAL.ipynb` in the root directory.
